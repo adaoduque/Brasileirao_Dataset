@@ -1,1 +1,1 @@
-# Dataset do Campeonato Brasileiro de Futebolt
+# Dataset do Campeonato Brasileiro de Futebol
