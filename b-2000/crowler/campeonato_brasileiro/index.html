@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<script type="text/javascript" src='js/jquery.min.js'></script>
+	<script type="text/javascript" src='js/bootstrap.min.js'></script>
+	<title>Crowler Campeonato Brasileiro</title>
+</head>
+<body>
+	<div class='container'>
+		<table class="table">
+			<thead class="thead-dark">
+				<th>Horario</th>
+				<th>Dia</th>
+				<th>Data</th>
+				<th>Clube 1</th>
+				<th>Clube 2</th>
+				<th>Placar</th>
+				<th>Vencedor</th>
+				<th>Rodada</th>
+				<th>Arena</th>
+			</thead>
+			<tbody class='tbody'>
+			</tbody>
+		</table>
+	</div>
+	<div class='content' style="display: none;"></div>
+	<script type="text/javascript" src='js/crowler.js'></script>
+	<script type="text/javascript">
+		setTimeout( function () {
+			getData(2000);
+		}, 500);		
+	</script>
+</body>
+</html>
