@@ -1,0 +1,14 @@
+Legenda
+Horário :  Horário que ocorreu a partida                     
+Dia : Dia da semana que ocorreu a partida                      
+Data : Data que ocorreu a partida                      
+Clube 1 : Clube mandante                      
+Clube 2 : Clube Visitante                      
+Vencedor : Clube vencedor da partida. Quando tiver "-", é um empate
+Rodada : Rodada que aconteceu a partida                      
+Arena : Arena que ocorreu a partida                      
+Clube 1 Gols : Gols que o clube mandante fez na partida                      
+Clube 2 Gols : Gols que o clube visitante fez na partida                      
+Clube 1 Estado : Estado do clube mandatorio                      
+Clube 2 Estado : Estado do clube visitante                      
+Estado Clube Vencedor : Estado do clube vencedor. Quando tiver "Empate", deu empate viu!                      
