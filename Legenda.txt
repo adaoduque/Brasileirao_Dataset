@@ -1,3 +1,4 @@
+ID - ID da partida
 Legenda - campeonato-brasileiro-full.csv
 Rodada : Rodada que aconteceu a partida
 Data : Data que ocorreu a partida
