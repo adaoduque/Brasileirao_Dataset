@@ -8327,7 +8327,7 @@
 8326;1;2021-05-30;18:15;Domingo;corinthians;atlético-go;atlético-go;Neo Química Arena;0;1;SP;GO;GO
 8327;1;2021-05-30;18:15;Domingo;chapecoense;bragantino;bragantino;Arena Condá;0;3;SC;SP;SP
 8328;1;2021-05-30;18:15;Domingo;athletico-pr;américa-mg;athletico-pr;Arena da Baixada;1;0;PR;MG;PR
-8329;1;2021-05-30;20:30;Domingo;internacional;sport;-;Beira Rio;2;2;RS;PE;-
+8329;1;2021-05-30;20:30;Domingo;internacional;sport;-;Beira-Rio;2;2;RS;PE;-
 8330;2;2021-06-05;19:00;Sabado;atlético-go;são paulo;atlético-go;Antônio Accioly;2;0;GO;SP;GO
 8331;2;2021-06-05;21:00;Sabado;santos;ceará;santos;Vila Belmiro;3;1;SP;CE;SP
 8332;2;2021-06-05;21:00;Sabado;bragantino;bahia;-;Nabi Abi Chedid;3;3;SP;BA;-
@@ -8337,7 +8337,7 @@
 8336;2;2021-06-06;18:15;Domingo;palmeiras;chapecoense;palmeiras;Allianz Parque;3;1;SP;SC;SP
 8337;2;2021-06-06;18:15;Domingo;juventude;athletico-pr;athletico-pr;Alfredo Jaconi;0;3;RS;PR;PR
 8338;2;2021-06-06;20:30;Domingo;sport;atlético-mg;atlético-mg;Ilha do Retiro;0;1;PE;MG;MG
-8339;2;;;;grêmio;flamengo;-;Arena do Grêmio;;;RS;RJ;-
+8339;2;;;;grêmio;flamengo;-;;;;RS;RJ;-
 8340;3;2021-06-12;19:00;Sabado;palmeiras;corinthians;-;Allianz Parque;1;1;SP;SP;-
 8341;3;2021-06-12;19:00;Sabado;santos;juventude;-;Vila Belmiro;0;0;SP;RS;-
 8342;3;2021-06-13;16:00;Domingo;flamengo;américa-mg;flamengo;Maracanã;2;0;RJ;MG;RJ
@@ -8347,9 +8347,9 @@
 8346;3;2021-06-13;20:30;Domingo;fortaleza;sport;fortaleza;Castelão;1;0;CE;PE;CE
 8347;3;2021-06-13;20:30;Domingo;bragantino;fluminense;-;Nabi Abi Chedid;2;2;SP;RJ;-
 8348;3;2021-06-13;20:30;Domingo;chapecoense;ceará;-;Arena Condá;0;0;SC;CE;-
-8349;3;;;;cuiabá;atlético-go;-;Arena Pantanal;;;MT;GO;-
+8349;3;;;;cuiabá;atlético-go;-;;;;MT;GO;-
 8350;4;2021-06-16;19:00;Quarta-Feira;são paulo;chapecoense;-;Morumbi;1;1;SP;SC;-
-8351;4;2021-06-16;19:00;Quarta-Feira;internacional;atlético-mg;atlético-mg;Beira Rio;0;1;RS;MG;MG
+8351;4;2021-06-16;19:00;Quarta-Feira;internacional;atlético-mg;atlético-mg;Beira-Rio;0;1;RS;MG;MG
 8352;4;2021-06-16;20:30;Quarta-Feira;corinthians;bragantino;bragantino;Neo Química Arena;1;2;SP;SP;SP
 8353;4;2021-06-16;21:30;Quarta-Feira;juventude;palmeiras;palmeiras;Alfredo Jaconi;0;3;RS;SP;SP
 8354;4;2021-06-17;16:00;Quinta-Feira;ceará;bahia;bahia;Castelão;1;2;CE;BA;BA
@@ -8357,11 +8357,11 @@
 8356;4;2021-06-17;19:00;Quinta-Feira;fluminense;santos;fluminense;Maracanã;1;0;RJ;SP;RJ
 8357;4;2021-06-17;19:00;Quinta-Feira;sport;grêmio;sport;Ilha do Retiro;1;0;PE;RS;PE
 8358;4;2021-06-17;19:00;Quinta-Feira;atlético-go;fortaleza;-;Antônio Accioly;0;0;GO;CE;-
-8359;4;;;;athletico-pr;flamengo;-;Arena da Baixada;;;PR;RJ;-
-8360;3;2021-07-21;19:00;Quarta-Feira;cuiabá;atlético-go;-;Arena Pantanal;;;MT;GO;-
+8359;4;;;;athletico-pr;flamengo;-;;;;PR;RJ;-
+8360;3;2021-07-21;19:00;Quarta-Feira;cuiabá;atlético-go;cuiabá;Arena Pantanal;2;1;MT;GO;MT
 8361;5;2021-06-19;21:00;Sabado;flamengo;bragantino;bragantino;Maracanã;2;3;RJ;SP;SP
 8362;5;2021-06-20;11:00;Domingo;palmeiras;américa-mg;palmeiras;Allianz Parque;2;1;SP;MG;SP
-8363;5;2021-06-20;16:00;Domingo;internacional;ceará;-;Beira Rio;1;1;RS;CE;-
+8363;5;2021-06-20;16:00;Domingo;internacional;ceará;-;Beira-Rio;1;1;RS;CE;-
 8364;5;2021-06-20;16:00;Domingo;bahia;corinthians;-;Pituaçu;0;0;BA;SP;-
 8365;5;2021-06-20;18:15;Domingo;santos;são paulo;santos;Vila Belmiro;2;0;SP;SP;SP
 8366;5;2021-06-20;18:15;Domingo;fortaleza;fluminense;-;Castelão;1;1;CE;RJ;-
@@ -8391,7 +8391,7 @@
 8390;7;2021-06-28;20:00;Segunda-Feira;atlético-go;bragantino;bragantino;Antônio Accioly;0;1;GO;SP;SP
 8391;8;2021-06-30;16:00;Quarta-Feira;fluminense;athletico-pr;athletico-pr;Raulino de Oliveira;1;4;RJ;PR;PR
 8392;8;2021-06-30;16:00;Quarta-Feira;fortaleza;chapecoense;fortaleza;Castelão;3;2;CE;SC;CE
-8393;8;2021-06-30;19:00;Quarta-Feira;internacional;palmeiras;palmeiras;Beira Rio;1;2;RS;SP;SP
+8393;8;2021-06-30;19:00;Quarta-Feira;internacional;palmeiras;palmeiras;Beira-Rio;1;2;RS;SP;SP
 8394;8;2021-06-30;19:00;Quarta-Feira;bahia;américa-mg;américa-mg;Pituaçu;3;4;BA;MG;MG
 8395;8;2021-06-30;20:30;Quarta-Feira;santos;sport;-;Vila Belmiro;0;0;SP;PE;-
 8396;8;2021-06-30;21:30;Quarta-Feira;corinthians;são paulo;-;Neo Química Arena;0;0;SP;SP;-
@@ -8417,7 +8417,7 @@
 8416;10;2021-07-07;19:00;Quarta-Feira;atlético-mg;flamengo;atlético-mg;Mineirão;2;1;MG;RJ;MG
 8417;10;2021-07-07;19:15;Quarta-Feira;atlético-go;sport;-;Antônio Accioly;1;1;GO;PE;-
 8418;10;2021-07-07;21:30;Quarta-Feira;fluminense;ceará;-;São Januário;0;0;RJ;CE;-
-8419;10;2021-07-07;21:30;Quarta-Feira;internacional;são paulo;são paulo;Beira Rio;0;2;RS;SP;SP
+8419;10;2021-07-07;21:30;Quarta-Feira;internacional;são paulo;são paulo;Beira-Rio;0;2;RS;SP;SP
 8420;10;2021-07-08;21:00;Quinta-Feira;chapecoense;corinthians;corinthians;Arena Condá;0;1;SC;SP;SP
 8421;11;2021-07-10;16:30;Sabado;palmeiras;santos;palmeiras;Allianz Parque;3;2;SP;SP;SP
 8422;11;2021-07-10;16:30;Sabado;grêmio;internacional;-;Arena do Grêmio;0;0;RS;RS;-
@@ -8429,3 +8429,13 @@
 8428;11;2021-07-11;18:15;Domingo;flamengo;chapecoense;flamengo;Maracanã;2;1;RJ;SC;RJ
 8429;11;2021-07-11;18:15;Domingo;cuiabá;ceará;-;Arena Pantanal;2;2;MT;CE;-
 8430;11;2021-07-11;20:30;Domingo;fortaleza;corinthians;fortaleza;Castelão;1;0;CE;SP;CE
+8431;12;2021-07-17;17:00;Sabado;são paulo;fortaleza;fortaleza;Morumbi;0;1;SP;CE;CE
+8432;12;2021-07-17;17:00;Sabado;ceará;athletico-pr;ceará;Castelão;1;0;CE;PR;CE
+8433;12;2021-07-17;19:00;Sabado;corinthians;atlético-mg;atlético-mg;Neo Química Arena;1;2;SP;MG;MG
+8434;12;2021-07-17;21:00;Sabado;fluminense;grêmio;grêmio;Maracanã;0;1;RJ;RS;RS
+8435;12;2021-07-18;11:00;Domingo;chapecoense;cuiabá;cuiabá;Arena Condá;2;3;SC;MT;MT
+8436;12;2021-07-18;16:00;Domingo;atlético-go;palmeiras;palmeiras;Antônio Accioly;0;3;GO;SP;SP
+8437;12;2021-07-18;18:15;Domingo;bahia;flamengo;flamengo;Pituaçu;0;5;BA;RJ;RJ
+8438;12;2021-07-18;20:30;Domingo;internacional;juventude;internacional;Beira-Rio;1;0;RS;RS;RS
+8439;12;2021-07-18;20:30;Domingo;bragantino;santos;-;Nabi Abi Chedid;2;2;SP;SP;-
+8440;12;2021-07-19;20:00;Segunda-Feira;américa-mg;sport;sport;Independência;0;1;MG;PE;PE
