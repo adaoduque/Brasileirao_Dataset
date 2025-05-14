@@ -12,11 +12,10 @@ tecnico_mandante: Técnico do mandante
 tecnico_visitante: Técnico do visitante
 Vencedor : Clube vencedor da partida. Quando tiver "-", é um empate
 Arena : Arena que ocorreu a partida                      
-Mandante Placar : Gols que o clube mandante fez na partida                      
-Visitante Placar : Gols que o clube visitante fez na partida                      
-Estado Mandante : Estado do clube mandatorio                      
-Estado Visitante : Estado do clube visitante                      
-Estado Vencedor : Estado do clube vencedor. Quando tiver "-", é um empate
+mandante_Placar : Gols que o clube mandante fez na partida                      
+visitante_Placar : Gols que o clube visitante fez na partida                      
+mandante_Estado : Estado do clube mandatorio                      
+visitante_Estado : Estado do clube visitante
 
 
 Legenda - campeonato-brasileiro-estatisticas-full.csv
